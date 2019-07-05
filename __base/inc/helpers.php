@@ -912,7 +912,7 @@ if ( ! function_exists( 'yx_breadcrumbs' ) ) {
                     }
                 }
             } elseif (
-                !is_single
+                !is_single()
                 && !is_page()
                 && get_post_type() != 'post'
                 && !is_404()
