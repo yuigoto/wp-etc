@@ -1,12 +1,5 @@
-Autores
-=======
+# WordPress EtCetera | Authors
 
-- **Fabio Y. Goto** ([lab@yuiti.com.br][0]) | São Paulo, BR |  _Desenvolvimento, Design e Planejamento_
+    - **AuthorName** (emailAddress) - Location - _Role_
 
------
-
-## Contribuições
-
-Nenhum ainda! :cold_sweat:
-
-[0]: mailto:lab@yuiti.com.br
+- **Fabio Y. Goto** (lab@yuiti.dev) - São Paulo, BR - _Desenvolvedor PHP_

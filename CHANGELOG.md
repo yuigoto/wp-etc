@@ -1,6 +1,9 @@
-Changelog
-=========
+# WordPress EtCetera | Changelog
 
-#### **03/10/2018**
+### 2020/05/02
 
-Primeiro commit! :)
+- Padronizando repositórios
+
+### 2018/10/03
+
+- Primeiro commit!
