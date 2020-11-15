@@ -86,7 +86,7 @@ if ( !function_exists( 'yx_template_setup' ) ) {
 
         // Suporte a elementos HTML5
         add_theme_support(
-            'htlm5',
+            'html5',
             array(
                 'comment-list',
                 'comment-form',
